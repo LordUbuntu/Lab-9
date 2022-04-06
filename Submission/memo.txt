@@ -1,0 +1,11 @@
+Team members: Jacobus Burger, Jun Park
+
+Contributions:
+- Jun
+	+ Made White Outer & Inner, Red, Blue, Middle, and Pavillion Buildings
+	+ Improved Grey, Little Red, Blue, and Red Buldings
+	+ Gathered and improved texture maps for various buildings
+- Jacobus
+	+ Made Basic Model and Texture for Blue, Grey, Little Red, Purple, Red Buildings (drastically improved by Jun)
+	+ Entirely constructed Unity world
+	

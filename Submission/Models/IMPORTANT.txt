@@ -1,0 +1,2 @@
+Remember:
+Do projects in folders, we DO NOT want project files anywhere except where the maya binary is located.
